@@ -1,0 +1,55 @@
+.nav-bg-color{
+    background-color: #264653;
+}
+#header-background{
+    background-color: #264653;
+    color: #FFFFFF;
+    
+}
+
+.header-text h1{
+    font-weight: 600;
+    font-size: 48px;
+}
+.header-text p{
+    font-weight: 300;
+    font-size: 16px;
+}
+#btn-color{
+    background-color: #E76F51;
+    border-color: none;
+}
+.text-color{
+    color: #E76F51;
+}
+.gray{
+    filter: grayscale(100%);
+}
+h5{
+    color: #18191F;
+    font-weight: 600;
+    font-size: 28px;
+}
+.images-size{
+    width: 149px;
+    height: 149px;
+}
+.star-color{
+    
+    color: #E77C40;
+}
+.accordion-img{
+    Width: 431.2px;
+    Height: 423.5px;
+    
+}
+.accordion-item{
+    width: 600px;
+}
+footer{
+    background-color: #0B0D17;
+}
+/* p{
+    color: #6C6C6C;
+    font-size: 16px;
+} */
